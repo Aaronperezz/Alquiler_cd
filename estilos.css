@@ -1,0 +1,15 @@
+h1, h2{
+    font-family: Arial;
+}
+
+#Ej6{
+    padding-top:50px;
+    margin: 0 auto;
+    width: 600px;
+}
+textarea { 
+    border-style: none; 
+    border-color: Transparent; 
+    overflow: auto;
+    resize: none;       
+  }
